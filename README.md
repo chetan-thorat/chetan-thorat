@@ -1,3 +1,4 @@
+![logo](https://github.com/chetan-thorat/chetan-thorat/blob/main/red_img.jpg)
 <h1 align="center">Hi 👋, I'm Chetan Narendra Thorat</h1>
 <h3 align="center">Driven software engineer leveraging expertise in Python, C++, and AWS to create cutting-edge solutions. Explore my GitHub profile for a comprehensive view of my projects, showcasing a blend of creativity, technical proficiency, and a passion for problem-solving. From web development to cloud infrastructure, each repository reflects my commitment to excellence and continuous learning. Join me on this journey of innovation and exploration, where every line of code tells a story of dedication and ingenuity.</h3>
 
