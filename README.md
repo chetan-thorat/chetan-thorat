@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-thorat" alt="chetan-thorat" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Full Stack**
+- 🔭 I’m currently working on **to get Python Proficiency, AWS, MERN Full Stack, Advanced Coding**
 
 - 🌱 I’m currently learning **React.JS, Node.JS, MongoDB, Express.JS**
 
